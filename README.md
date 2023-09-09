@@ -35,6 +35,5 @@
   		<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
       		<br />
-
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:abe3e3,100:caeded&height=80&section=footer&desc&animation=fadeln" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:abe3e3,100:caeded&height=80&section=footer&desc&animation=fadeln" />
 </div>
