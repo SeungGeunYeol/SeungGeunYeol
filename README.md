@@ -1,7 +1,7 @@
 <div align="center">
 ### 👋 Hello! I'm Geunyeol 👋
 
-##  I'm studing backend development.
+##  I'm studying backend development.
 
 
 </div>
