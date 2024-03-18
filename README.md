@@ -1,5 +1,4 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:abe3e3,100:caeded&height=230&section=header&text=Welcome!😊&desc=This%20is%20GeunYeol's%20Github&fontSize=48&descSize=20&animation=fadeln&fontAlignY=36&fontColor=ffffff" />
 
 <h3>💻 새로운 여정을 시작한 백엔드 주니어 개발자 입니다.</h3>
 <p> Email : swaq11@naver.com</p>
